@@ -1,4 +1,5 @@
 import CategoriesSection from "@/components/HomePage/CategoriesSection";
+import CoursesSection from "@/components/HomePage/CoursesSection";
 import CreatorSection from "@/components/HomePage/CreatorSection";
 import GrowthSection from "@/components/HomePage/GrowthSection";
 import HeroBanner from "@/components/HomePage/HeroBanner";
@@ -15,7 +16,7 @@ export default function Home() {
       <Header />
       <HeroBanner />
       <PartnersSection />
-        
+        <CoursesSection />
         <CategoriesSection />
        <GrowthSection />  
      
