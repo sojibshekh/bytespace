@@ -31,7 +31,7 @@ export default function HeroBanner() {
       aria-labelledby="hero-heading"
       className="relative isolate overflow-hidden bg-[#073BDD] text-white"
     >
-      {/* Figma-র blue grid background */}
+
       <div
         aria-hidden="true"
         className="pointer-events-none absolute inset-0 opacity-20"
@@ -42,7 +42,7 @@ export default function HeroBanner() {
         }}
       />
 
-      {/* Figma-তে থাকা decorative images */}
+     
       <Image
         src={squiggle}
         alt=""
@@ -120,7 +120,7 @@ export default function HeroBanner() {
           </label>
           <button
             type="submit"
-            className="shrink-0 rounded-full bg-[#D5FF00] px-6 py-3 text-sm font-medium text-black transition-colors hover:bg-[#c3ed00]"
+            className="shrink-0 rounded-full bg-[#D4FB20] px-6 py-3 text-sm font-medium text-black transition-colors hover:bg-[#c3ed00]"
           >
             Search
           </button>
@@ -130,7 +130,7 @@ export default function HeroBanner() {
           {/* Screenshot-এর lime semicircle */}
           <div
             aria-hidden="true"
-            className="absolute inset-x-[9vw] bottom-0 -z-10 aspect-[2/1] rounded-t-full bg-[#D5FF00] sm:inset-x-[13vw]"
+            className="absolute inset-x-[9vw] bottom-0 -z-10 aspect-[2/1] rounded-t-full bg-[#D4FB20] sm:inset-x-[13vw]"
           />
 
           <div className="relative mx-auto grid w-[min(65vw,34rem)] items-end sm:w-[min(49vw,34rem)]">
@@ -155,7 +155,7 @@ export default function HeroBanner() {
               55%
             </p>
             <div className="mt-2 overflow-hidden rounded-full bg-[#F0F0F0]">
-              <div className="h-1.5 w-[55%] rounded-full bg-[#D5FF00]" />
+              <div className="h-1.5 w-[55%] rounded-full bg-[#D4FB20]" />
             </div>
           </div>
 
@@ -173,7 +173,7 @@ export default function HeroBanner() {
                   className="-mr-2 h-6 w-6 rounded-full border border-white object-cover sm:h-8 sm:w-8"
                 />
               ))}
-              <span className="ml-2 grid h-6 w-6 place-items-center rounded-full bg-[#D5FF00] text-[9px] font-semibold text-black sm:h-8 sm:w-8">
+              <span className="ml-2 grid h-6 w-6 place-items-center rounded-full bg-[#D4FB20] text-[9px] font-semibold text-black sm:h-8 sm:w-8">
                 2K+
               </span>
             </div>
