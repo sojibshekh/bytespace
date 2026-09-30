@@ -1,0 +1,906 @@
+[
+  {
+    "id": "course-01",
+    "slug": "learn-figma-from-basic",
+    "title": "Learn Figma from Basic",
+    "subtitle": "Start Your UI Design Journey with Figma",
+    "category": "UI/UX Design",
+    "featured": true,
+    "thumbnail": "/images/courses/figma.jpg",
+    "coverImage": "/images/courses/figma.jpg",
+    "previewVideo": null,
+    "price": 25,
+    "currency": "USD",
+    "accessType": "lifetime",
+    "level": "Beginner",
+    "language": "English",
+    "author": {
+      "id": "purepearl-studio",
+      "name": "PurePearl Studio",
+      "role": "UI/UX Educator",
+      "avatar": "/images/hero/student-1.png",
+      "bio": "A design studio teaching practical interface design."
+    },
+    "rating": 4.5,
+    "reviewCount": 240,
+    "commentCount": 59,
+    "studentCount": 126,
+    "studentImages": [
+      "/images/hero/student-1.png",
+      "/images/hero/student-2.png",
+      "/images/hero/student-3.png",
+      "/images/hero/student-4.png"
+    ],
+    "lessonCount": 4,
+    "durationMinutes": 136,
+    "description": [
+      "Learn the fundamentals of Figma and create your first interface design. Explore frames, layers, typography, colors, and reusable components.",
+      "Practice responsive layouts with Auto Layout and connect your screens into an interactive prototype."
+    ],
+    "sneakPeekImages": ["/images/courses/figma.jpg"],
+    "keyPoints": [
+      "Figma workspace essentials",
+      "Typography and color",
+      "Auto Layout",
+      "Interactive prototyping"
+    ],
+    "includes": [
+      "Learning Resources",
+      "Quality Lesson Videos",
+      "Certificate of Completion",
+      "Practice Projects"
+    ],
+    "modules": [
+      {
+        "id": "figma-module-01",
+        "title": "Getting Started",
+        "lessons": [
+          {
+            "id": "figma-lesson-01",
+            "title": "Introduction to Figma",
+            "durationMinutes": 26,
+            "description": "Explore the workspace and essential tools.",
+            "videoUrl": null,
+            "resources": []
+          },
+          {
+            "id": "figma-lesson-02",
+            "title": "Frames, Typography and Colors",
+            "durationMinutes": 34,
+            "description": "Build a consistent visual foundation.",
+            "videoUrl": null,
+            "resources": []
+          }
+        ]
+      },
+      {
+        "id": "figma-module-02",
+        "title": "Build Your First Interface",
+        "lessons": [
+          {
+            "id": "figma-lesson-03",
+            "title": "Components and Auto Layout",
+            "durationMinutes": 42,
+            "description": "Create reusable and adaptable interface elements.",
+            "videoUrl": null,
+            "resources": []
+          },
+          {
+            "id": "figma-lesson-04",
+            "title": "Create an Interactive Prototype",
+            "durationMinutes": 34,
+            "description": "Connect screens and present your design.",
+            "videoUrl": null,
+            "resources": []
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "id": "figma-review-01",
+        "name": "Sarah M.",
+        "avatar": "/images/hero/student-2.png",
+        "rating": 5,
+        "date": "2026-09-12",
+        "comment": "The practical exercises helped me understand Auto Layout."
+      }
+    ]
+  },
+  {
+    "id": "course-02",
+    "slug": "build-digital-asset",
+    "title": "Build Digital Asset: A Comprehensive Guide",
+    "subtitle": "Unlock the Power of Digital Creation with Expert Guidance",
+    "category": "Graphic Design",
+    "featured": true,
+    "thumbnail": "/images/courses/digital-asset.jpg",
+    "coverImage": "/images/courses/digital-asset.jpg",
+    "previewVideo": null,
+    "price": 25,
+    "currency": "USD",
+    "accessType": "lifetime",
+    "level": "Intermediate",
+    "language": "English",
+    "author": {
+      "id": "purepearl-studio",
+      "name": "PurePearl Studio",
+      "role": "Professional Creator",
+      "avatar": "/images/hero/student-1.png",
+      "bio": "A creative studio helping learners build digital products."
+    },
+    "rating": 4.8,
+    "reviewCount": 172,
+    "commentCount": 59,
+    "studentCount": 199,
+    "studentImages": [
+      "/images/hero/student-1.png",
+      "/images/hero/student-2.png",
+      "/images/hero/student-3.png",
+      "/images/hero/student-4.png"
+    ],
+    "lessonCount": 4,
+    "durationMinutes": 136,
+    "description": [
+      "Explore the process of creating useful digital assets, from initial concepts to polished deliverables.",
+      "Learn design principles, organize your asset library, and prepare your work for different platforms."
+    ],
+    "sneakPeekImages": ["/images/courses/digital-asset.jpg"],
+    "keyPoints": [
+      "Foundational Concepts",
+      "Design Principles Mastery",
+      "Digital Asset Management",
+      "Building Your Portfolio"
+    ],
+    "includes": [
+      "Learning Resources",
+      "Quality Lesson Videos",
+      "Certificate of Completion",
+      "Private Consultation"
+    ],
+    "modules": [
+      {
+        "id": "asset-module-01",
+        "title": "Digital Asset Foundations",
+        "lessons": [
+          {
+            "id": "asset-lesson-01",
+            "title": "Introduction to Digital Assets",
+            "durationMinutes": 12,
+            "description": "Understand digital asset types and their uses.",
+            "videoUrl": null,
+            "resources": []
+          },
+          {
+            "id": "asset-lesson-02",
+            "title": "Design Principles for Impact",
+            "durationMinutes": 21,
+            "description": "Apply hierarchy, contrast, and consistency.",
+            "videoUrl": null,
+            "resources": []
+          }
+        ]
+      },
+      {
+        "id": "asset-module-02",
+        "title": "Create and Publish",
+        "lessons": [
+          {
+            "id": "asset-lesson-03",
+            "title": "Advanced Techniques in Digital Creation",
+            "durationMinutes": 16,
+            "description": "Refine assets for practical applications.",
+            "videoUrl": null,
+            "resources": []
+          },
+          {
+            "id": "asset-lesson-04",
+            "title": "Portfolio Project",
+            "durationMinutes": 87,
+            "description": "Create and present a complete asset collection.",
+            "videoUrl": null,
+            "resources": []
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "id": "asset-review-01",
+        "name": "James L.",
+        "avatar": "/images/hero/student-3.png",
+        "rating": 5,
+        "date": "2026-09-14",
+        "comment": "The portfolio project gave me a clear process to follow."
+      }
+    ]
+  },
+  {
+    "id": "course-03",
+    "slug": "the-power-of-big-data",
+    "title": "The Power of Big Data",
+    "subtitle": "Turn Complex Data into Meaningful Insights",
+    "category": "Data Science",
+    "featured": true,
+    "thumbnail": "/images/courses/big-data.jpg",
+    "coverImage": "/images/courses/big-data.jpg",
+    "previewVideo": null,
+    "price": 25,
+    "currency": "USD",
+    "accessType": "lifetime",
+    "level": "Beginner",
+    "language": "English",
+    "author": {
+      "id": "alex-bennett",
+      "name": "Alex Bennett",
+      "role": "Data Analyst",
+      "avatar": "/images/hero/student-3.png",
+      "bio": "An analyst teaching accessible approaches to data exploration."
+    },
+    "rating": 4.6,
+    "reviewCount": 98,
+    "commentCount": 34,
+    "studentCount": 168,
+    "studentImages": [
+      "/images/hero/student-2.png",
+      "/images/hero/student-3.png",
+      "/images/hero/student-4.png",
+      "/images/hero/student-5.png"
+    ],
+    "lessonCount": 2,
+    "durationMinutes": 120,
+    "description": [
+      "Understand how organizations collect, organize, and analyze large datasets.",
+      "Practice identifying useful patterns and communicating your findings through visual reports."
+    ],
+    "sneakPeekImages": ["/images/courses/big-data.jpg"],
+    "keyPoints": [
+      "Data fundamentals",
+      "Data preparation",
+      "Pattern discovery",
+      "Visual reporting"
+    ],
+    "includes": [
+      "Learning Resources",
+      "Quality Lesson Videos",
+      "Certificate of Completion",
+      "Practice Exercises"
+    ],
+    "modules": [
+      {
+        "id": "data-module-01",
+        "title": "Explore and Explain Data",
+        "lessons": [
+          {
+            "id": "data-lesson-01",
+            "title": "Collecting and Preparing Data",
+            "durationMinutes": 55,
+            "description": "Prepare datasets for analysis.",
+            "videoUrl": null,
+            "resources": []
+          },
+          {
+            "id": "data-lesson-02",
+            "title": "Finding and Presenting Insights",
+            "durationMinutes": 65,
+            "description": "Create a report that explains your findings.",
+            "videoUrl": null,
+            "resources": []
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "id": "data-review-01",
+        "name": "Maria K.",
+        "avatar": "/images/hero/student-4.png",
+        "rating": 4,
+        "date": "2026-09-10",
+        "comment": "A helpful introduction with clear reporting examples."
+      }
+    ]
+  },
+  {
+    "id": "course-04",
+    "slug": "balancing-productivity-and-wellbeing",
+    "title": "Balancing Productivity and Wellbeing",
+    "subtitle": "Build Sustainable Habits for Better Work",
+    "category": "Productivity",
+    "featured": true,
+    "thumbnail": "/images/courses/productivity.jpg",
+    "coverImage": "/images/courses/productivity.jpg",
+    "previewVideo": null,
+    "price": 25,
+    "currency": "USD",
+    "accessType": "lifetime",
+    "level": "Beginner",
+    "language": "English",
+    "author": {
+      "id": "sarah-morgan",
+      "name": "Sarah Morgan",
+      "role": "Productivity Coach",
+      "avatar": "/images/hero/student-2.png",
+      "bio": "A coach helping professionals develop sustainable work routines."
+    },
+    "rating": 4.7,
+    "reviewCount": 116,
+    "commentCount": 42,
+    "studentCount": 214,
+    "studentImages": [
+      "/images/hero/student-1.png",
+      "/images/hero/student-3.png",
+      "/images/hero/student-5.png",
+      "/images/hero/student-6.png"
+    ],
+    "lessonCount": 2,
+    "durationMinutes": 95,
+    "description": [
+      "Create a practical productivity system that supports your priorities and energy.",
+      "Learn to plan focused work, manage distractions, and review your progress."
+    ],
+    "sneakPeekImages": ["/images/courses/productivity.jpg"],
+    "keyPoints": [
+      "Setting priorities",
+      "Focused work",
+      "Managing distractions",
+      "Weekly planning"
+    ],
+    "includes": [
+      "Learning Resources",
+      "Quality Lesson Videos",
+      "Certificate of Completion",
+      "Planning Exercises"
+    ],
+    "modules": [
+      {
+        "id": "productivity-module-01",
+        "title": "Your Personal Productivity System",
+        "lessons": [
+          {
+            "id": "productivity-lesson-01",
+            "title": "Priorities and Focus",
+            "durationMinutes": 45,
+            "description": "Choose priorities and structure focused work.",
+            "videoUrl": null,
+            "resources": []
+          },
+          {
+            "id": "productivity-lesson-02",
+            "title": "Build a Sustainable Weekly Routine",
+            "durationMinutes": 50,
+            "description": "Create a routine you can review and improve.",
+            "videoUrl": null,
+            "resources": []
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "id": "productivity-review-01",
+        "name": "Daniel R.",
+        "avatar": "/images/hero/student-5.png",
+        "rating": 5,
+        "date": "2026-09-08",
+        "comment": "The weekly planning exercise was easy to apply."
+      }
+    ]
+  },
+  {
+    "id": "course-05",
+    "slug": "mastering-money-management",
+    "title": "Mastering Money Management",
+    "subtitle": "Understand Your Finances and Plan with Confidence",
+    "category": "Freelance & Entrepreneurship",
+    "featured": true,
+    "thumbnail": "/images/courses/money-management.jpg",
+    "coverImage": "/images/courses/money-management.jpg",
+    "previewVideo": null,
+    "price": 25,
+    "currency": "USD",
+    "accessType": "lifetime",
+    "level": "Beginner",
+    "language": "English",
+    "author": {
+      "id": "james-lawson",
+      "name": "James Lawson",
+      "role": "Financial Educator",
+      "avatar": "/images/hero/student-4.png",
+      "bio": "An educator explaining everyday financial planning concepts."
+    },
+    "rating": 4.5,
+    "reviewCount": 87,
+    "commentCount": 29,
+    "studentCount": 143,
+    "studentImages": [
+      "/images/hero/student-2.png",
+      "/images/hero/student-4.png",
+      "/images/hero/student-6.png",
+      "/images/hero/student-7.png"
+    ],
+    "lessonCount": 2,
+    "durationMinutes": 110,
+    "description": [
+      "Learn the foundations of budgeting, expense tracking, and financial goal setting.",
+      "Create a simple plan for managing personal and freelance income."
+    ],
+    "sneakPeekImages": ["/images/courses/money-management.jpg"],
+    "keyPoints": [
+      "Budgeting basics",
+      "Expense tracking",
+      "Savings goals",
+      "Freelance cash flow"
+    ],
+    "includes": [
+      "Learning Resources",
+      "Quality Lesson Videos",
+      "Certificate of Completion",
+      "Budget Exercises"
+    ],
+    "modules": [
+      {
+        "id": "money-module-01",
+        "title": "Financial Planning Basics",
+        "lessons": [
+          {
+            "id": "money-lesson-01",
+            "title": "Create Your First Budget",
+            "durationMinutes": 50,
+            "description": "Organize income and expenses.",
+            "videoUrl": null,
+            "resources": []
+          },
+          {
+            "id": "money-lesson-02",
+            "title": "Goals and Cash Flow",
+            "durationMinutes": 60,
+            "description": "Plan for irregular income and future expenses.",
+            "videoUrl": null,
+            "resources": []
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "id": "money-review-01",
+        "name": "Nadia A.",
+        "avatar": "/images/hero/student-6.png",
+        "rating": 4,
+        "date": "2026-09-06",
+        "comment": "The budgeting examples were straightforward."
+      }
+    ]
+  },
+  {
+    "id": "course-06",
+    "slug": "from-idea-to-startup-success",
+    "title": "From Idea to Startup Success",
+    "subtitle": "Validate Your Idea and Build a Launch Plan",
+    "category": "Freelance & Entrepreneurship",
+    "featured": true,
+    "thumbnail": "/images/courses/startup.jpg",
+    "coverImage": "/images/courses/startup.jpg",
+    "previewVideo": null,
+    "price": 25,
+    "currency": "USD",
+    "accessType": "lifetime",
+    "level": "Beginner",
+    "language": "English",
+    "author": {
+      "id": "emma-clarke",
+      "name": "Emma Clarke",
+      "role": "Startup Mentor",
+      "avatar": "/images/hero/student-5.png",
+      "bio": "A mentor supporting early-stage founders."
+    },
+    "rating": 4.8,
+    "reviewCount": 134,
+    "commentCount": 48,
+    "studentCount": 256,
+    "studentImages": [
+      "/images/hero/student-1.png",
+      "/images/hero/student-2.png",
+      "/images/hero/student-5.png",
+      "/images/hero/student-7.png"
+    ],
+    "lessonCount": 2,
+    "durationMinutes": 150,
+    "description": [
+      "Turn a business idea into a clear, testable plan.",
+      "Explore customer research, value propositions, and practical launch preparation."
+    ],
+    "sneakPeekImages": ["/images/courses/startup.jpg"],
+    "keyPoints": [
+      "Customer research",
+      "Idea validation",
+      "Value proposition",
+      "Launch planning"
+    ],
+    "includes": [
+      "Learning Resources",
+      "Quality Lesson Videos",
+      "Certificate of Completion",
+      "Business Planning Exercises"
+    ],
+    "modules": [
+      {
+        "id": "startup-module-01",
+        "title": "Validate and Launch",
+        "lessons": [
+          {
+            "id": "startup-lesson-01",
+            "title": "Understand Your Customers",
+            "durationMinutes": 70,
+            "description": "Identify problems worth solving.",
+            "videoUrl": null,
+            "resources": []
+          },
+          {
+            "id": "startup-lesson-02",
+            "title": "Build Your Launch Plan",
+            "durationMinutes": 80,
+            "description": "Define your offer and initial launch steps.",
+            "videoUrl": null,
+            "resources": []
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "id": "startup-review-01",
+        "name": "Omar H.",
+        "avatar": "/images/hero/student-7.png",
+        "rating": 5,
+        "date": "2026-09-15",
+        "comment": "The validation process helped me refine my idea."
+      }
+    ]
+  },
+  {
+    "id": "course-07",
+    "slug": "responsive-web-design-in-figma",
+    "title": "Responsive Web Design in Figma",
+    "subtitle": "Design Adaptable Interfaces for Different Screens",
+    "category": "UI/UX Design",
+    "featured": false,
+    "thumbnail": "/images/courses/figma.jpg",
+    "coverImage": "/images/courses/figma.jpg",
+    "previewVideo": null,
+    "price": 35,
+    "currency": "USD",
+    "accessType": "lifetime",
+    "level": "Intermediate",
+    "language": "English",
+    "author": {
+      "id": "purepearl-studio",
+      "name": "PurePearl Studio",
+      "role": "UI/UX Educator",
+      "avatar": "/images/hero/student-1.png",
+      "bio": "A design studio teaching practical interface design."
+    },
+    "rating": 4.7,
+    "reviewCount": 76,
+    "commentCount": 24,
+    "studentCount": 118,
+    "studentImages": [
+      "/images/hero/student-1.png",
+      "/images/hero/student-3.png",
+      "/images/hero/student-4.png",
+      "/images/hero/student-6.png"
+    ],
+    "lessonCount": 2,
+    "durationMinutes": 145,
+    "description": [
+      "Design interfaces that adapt across mobile, tablet, and desktop layouts.",
+      "Use constraints, reusable components, and Auto Layout to build flexible screens."
+    ],
+    "sneakPeekImages": ["/images/courses/figma.jpg"],
+    "keyPoints": [
+      "Responsive layout planning",
+      "Constraints",
+      "Advanced Auto Layout",
+      "Component variants"
+    ],
+    "includes": [
+      "Learning Resources",
+      "Quality Lesson Videos",
+      "Certificate of Completion",
+      "Practice Projects"
+    ],
+    "modules": [
+      {
+        "id": "responsive-module-01",
+        "title": "Flexible Interface Design",
+        "lessons": [
+          {
+            "id": "responsive-lesson-01",
+            "title": "Layouts and Constraints",
+            "durationMinutes": 65,
+            "description": "Plan layouts that adapt to different screens.",
+            "videoUrl": null,
+            "resources": []
+          },
+          {
+            "id": "responsive-lesson-02",
+            "title": "Responsive Component Workshop",
+            "durationMinutes": 80,
+            "description": "Build and test flexible components.",
+            "videoUrl": null,
+            "resources": []
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "id": "responsive-review-01",
+        "name": "Lina S.",
+        "avatar": "/images/hero/student-2.png",
+        "rating": 5,
+        "date": "2026-09-16",
+        "comment": "The component workshop made responsive design clearer."
+      }
+    ]
+  },
+  {
+    "id": "course-08",
+    "slug": "social-media-content-design",
+    "title": "Social Media Content Design",
+    "subtitle": "Create Consistent Visual Content for Your Brand",
+    "category": "Social Media",
+    "featured": false,
+    "thumbnail": "/images/courses/digital-asset.jpg",
+    "coverImage": "/images/courses/digital-asset.jpg",
+    "previewVideo": null,
+    "price": 20,
+    "currency": "USD",
+    "accessType": "lifetime",
+    "level": "Beginner",
+    "language": "English",
+    "author": {
+      "id": "mia-roberts",
+      "name": "Mia Roberts",
+      "role": "Content Designer",
+      "avatar": "/images/hero/student-6.png",
+      "bio": "A designer creating visual systems for social content."
+    },
+    "rating": 4.6,
+    "reviewCount": 63,
+    "commentCount": 21,
+    "studentCount": 175,
+    "studentImages": [
+      "/images/hero/student-2.png",
+      "/images/hero/student-3.png",
+      "/images/hero/student-5.png",
+      "/images/hero/student-6.png"
+    ],
+    "lessonCount": 2,
+    "durationMinutes": 100,
+    "description": [
+      "Learn to create clear, consistent social media graphics.",
+      "Develop reusable templates and organize content around your brand goals."
+    ],
+    "sneakPeekImages": ["/images/courses/digital-asset.jpg"],
+    "keyPoints": [
+      "Visual brand consistency",
+      "Content planning",
+      "Reusable templates",
+      "Platform formats"
+    ],
+    "includes": [
+      "Learning Resources",
+      "Quality Lesson Videos",
+      "Certificate of Completion",
+      "Design Exercises"
+    ],
+    "modules": [
+      {
+        "id": "social-module-01",
+        "title": "Plan and Design Content",
+        "lessons": [
+          {
+            "id": "social-lesson-01",
+            "title": "Brand Style and Content Planning",
+            "durationMinutes": 45,
+            "description": "Create a consistent direction for your content.",
+            "videoUrl": null,
+            "resources": []
+          },
+          {
+            "id": "social-lesson-02",
+            "title": "Create Reusable Post Templates",
+            "durationMinutes": 55,
+            "description": "Design templates for common content formats.",
+            "videoUrl": null,
+            "resources": []
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "id": "social-review-01",
+        "name": "Ryan T.",
+        "avatar": "/images/hero/student-4.png",
+        "rating": 4,
+        "date": "2026-09-18",
+        "comment": "Useful exercises for creating consistent post designs."
+      }
+    ]
+  },
+  {
+    "id": "course-09",
+    "slug": "data-visualization-for-beginners",
+    "title": "Data Visualization for Beginners",
+    "subtitle": "Tell Clear Stories with Charts and Dashboards",
+    "category": "Data Science",
+    "featured": false,
+    "thumbnail": "/images/courses/big-data.jpg",
+    "coverImage": "/images/courses/big-data.jpg",
+    "previewVideo": null,
+    "price": 30,
+    "currency": "USD",
+    "accessType": "lifetime",
+    "level": "Beginner",
+    "language": "English",
+    "author": {
+      "id": "alex-bennett",
+      "name": "Alex Bennett",
+      "role": "Data Analyst",
+      "avatar": "/images/hero/student-3.png",
+      "bio": "An analyst teaching accessible approaches to data exploration."
+    },
+    "rating": 4.8,
+    "reviewCount": 91,
+    "commentCount": 32,
+    "studentCount": 182,
+    "studentImages": [
+      "/images/hero/student-1.png",
+      "/images/hero/student-4.png",
+      "/images/hero/student-6.png",
+      "/images/hero/student-7.png"
+    ],
+    "lessonCount": 2,
+    "durationMinutes": 125,
+    "description": [
+      "Choose suitable charts and build readable dashboards.",
+      "Learn how visual hierarchy and context help audiences understand your data."
+    ],
+    "sneakPeekImages": ["/images/courses/big-data.jpg"],
+    "keyPoints": [
+      "Chart selection",
+      "Visual hierarchy",
+      "Dashboard layouts",
+      "Communicating insights"
+    ],
+    "includes": [
+      "Learning Resources",
+      "Quality Lesson Videos",
+      "Certificate of Completion",
+      "Dashboard Exercises"
+    ],
+    "modules": [
+      {
+        "id": "visualization-module-01",
+        "title": "Charts and Dashboards",
+        "lessons": [
+          {
+            "id": "visualization-lesson-01",
+            "title": "Choose the Right Chart",
+            "durationMinutes": 55,
+            "description": "Match chart types to your questions.",
+            "videoUrl": null,
+            "resources": []
+          },
+          {
+            "id": "visualization-lesson-02",
+            "title": "Build a Clear Dashboard",
+            "durationMinutes": 70,
+            "description": "Arrange charts into a useful visual report.",
+            "videoUrl": null,
+            "resources": []
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "id": "visualization-review-01",
+        "name": "Eva P.",
+        "avatar": "/images/hero/student-5.png",
+        "rating": 5,
+        "date": "2026-09-20",
+        "comment": "The chart selection examples were especially helpful."
+      }
+    ]
+  },
+  {
+    "id": "course-10",
+    "slug": "creative-marketing-strategy",
+    "title": "Creative Marketing Strategy",
+    "subtitle": "Plan Campaigns That Connect with Your Audience",
+    "category": "Creative Marketing",
+    "featured": false,
+    "thumbnail": "/images/courses/startup.jpg",
+    "coverImage": "/images/courses/startup.jpg",
+    "previewVideo": null,
+    "price": 29,
+    "currency": "USD",
+    "accessType": "lifetime",
+    "level": "Intermediate",
+    "language": "English",
+    "author": {
+      "id": "emma-clarke",
+      "name": "Emma Clarke",
+      "role": "Marketing Educator",
+      "avatar": "/images/hero/student-5.png",
+      "bio": "An educator helping teams plan audience-focused campaigns."
+    },
+    "rating": 4.7,
+    "reviewCount": 105,
+    "commentCount": 37,
+    "studentCount": 208,
+    "studentImages": [
+      "/images/hero/student-2.png",
+      "/images/hero/student-4.png",
+      "/images/hero/student-5.png",
+      "/images/hero/student-7.png"
+    ],
+    "lessonCount": 2,
+    "durationMinutes": 140,
+    "description": [
+      "Build a marketing strategy around audience needs and clear campaign goals.",
+      "Develop creative concepts, choose channels, and define useful performance measures."
+    ],
+    "sneakPeekImages": ["/images/courses/startup.jpg"],
+    "keyPoints": [
+      "Audience research",
+      "Campaign concepts",
+      "Channel planning",
+      "Performance measurement"
+    ],
+    "includes": [
+      "Learning Resources",
+      "Quality Lesson Videos",
+      "Certificate of Completion",
+      "Campaign Planning Exercises"
+    ],
+    "modules": [
+      {
+        "id": "marketing-module-01",
+        "title": "Campaign Strategy",
+        "lessons": [
+          {
+            "id": "marketing-lesson-01",
+            "title": "Audience and Creative Direction",
+            "durationMinutes": 65,
+            "description": "Define who your campaign serves and what it communicates.",
+            "videoUrl": null,
+            "resources": []
+          },
+          {
+            "id": "marketing-lesson-02",
+            "title": "Campaign Planning and Measurement",
+            "durationMinutes": 75,
+            "description": "Plan channels and evaluate campaign results.",
+            "videoUrl": null,
+            "resources": []
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "id": "marketing-review-01",
+        "name": "Adam W.",
+        "avatar": "/images/hero/student-7.png",
+        "rating": 5,
+        "date": "2026-09-22",
+        "comment": "A clear framework for planning my first campaign."
+      }
+    ]
+  }
+]
